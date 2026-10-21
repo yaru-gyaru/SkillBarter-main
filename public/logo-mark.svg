@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="SkillBarter">
+  <path fill="#FFE45C" stroke="#171717" stroke-width="3" d="M2 2h60v60H2z"/>
+  <path fill="#3448E4" stroke="#171717" stroke-width="3" d="M15 15h34v14H15z"/>
+  <path fill="#FF8069" stroke="#171717" stroke-width="3" d="M15 35h34v14H15z"/>
+  <path stroke="#fff" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter" d="M22 22h18m-7-7 7 7-7 7"/>
+  <path stroke="#171717" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter" d="M42 42H24m7-7-7 7 7 7"/>
+</svg>
